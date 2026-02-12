@@ -1,3 +1,7 @@
 streamlit
 pandas
+numpy
 python-pptx
+plotly
+scikit-learn
+scipy
